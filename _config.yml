@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: mafulong
+username: mfloong
 baseurl: /blog
 markdown: redcarpet
 safe: false
